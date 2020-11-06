@@ -1,1 +1,28 @@
+Click_ID;date;banner_type;banner_width;banner_heigth;IP;Device_ID;Bid;OS;OS_Version;Device_mode;Connection_Type;
+35803771;2019-09-23 21:46:51;simple;768;1024;91.233.43.235;26D00212-C469-4A3C-824D-8FAD9CA1554C;353;iOS;ios 9.3;Apple iPad 1;WiFi
+35803772;2019-09-23 21:47:17;simple;320;480;5.18.232.72;e51b5d0c-e147-4c7c-a7d9-f54fdbe84918;712;Android;android 8;huawei honor 9 lite;None
+35803773;2019-09-23 21:47:40;simple;320;480;62.33.118.27;5b47abce-0e7c-46c4-97cf-06e8a4746ef2;353;Android;android 5.0.2;lenovo a6010;WiFi
+35803774;2019-09-23 21:49:14;simple;320;480;46.8.244.223;19b84b3c-ddcc-4010-815b-1951f77515bf;353;Android;android 4.4;None;WiFi
+35803775;2019-09-23 21:49:30;simple;320;480;85.93.58.149;b61f2a4d-e008-4526-8654-510c5e4b774f;353;Android;android 6.0;micromax q354;WiFi
+35803776;2019-09-23 21:50:20;native;1;1;213.87.103.91;211a7529-afae-443e-a834-deeea93b6709;521;Android;None;None;WiFi
+35803777;2019-09-23 21:50:33;native;1;1;176.59.110.122;fba38d8b-f29e-439e-bf4c-d445505582e0;521;Android;android 5.1;generic android 5.1;GPRS/EDGE/3G/LTE
+35803778;2019-09-23 21:51:04;simple;320;480;188.116.130.185;8801c323-8821-4692-9ad5-53a131741996;353;Android;android 6.0;lg k350;WiFi
+35803779;2019-09-23 21:51:37;simple;320;480;91.245.134.53;083b829c-562e-4c8a-8e92-cc3da4c74ccb;863;Android;None;None;WiFi
+35803780;2019-09-23 21:52:31;simple;320;480;94.26.216.7;65e049a5-120e-4ba8-b8a6-a7344e8f2c36;353;Android;android 23;samsung sm-s727vl;WiFi
+35803781;2019-09-23 21:52:58;simple;320;480;213.59.158.101;9ea2fd60-460d-4611-b536-9b32219071e9;353;Android;android 8.0;None;WiFi
+35803782;2019-09-23 21:53:07;simple;320;480;188.186.108.122;0b8be135-3e9d-420f-b266-6b58212495cb;472;Android;android 6.0.1;samsung sm-a500h;WiFi
+35803783;2019-09-23 21:53:51;simple;320;480;93.176.134.196;None;863;Android;android 8.1.0;samsung sm-j730f;WiFi
+35803784;2019-09-23 21:54:25;simple;320;480;78.30.1.209;None;863;Android;android 7.1.2;xiaomi mi 4x;WiFi
+35803785;2019-09-23 21:57:42;simple;320;480;46.61.24.228;2c8989ee-6eca-411d-b355-460a5007a28e;353;Android;android 8.0.0;samsung sm-g950u;WiFi
+35803786;2019-09-23 21:58:08;dhtml;320;480;145.255.2.160;d681ea11-fb05-4be1-b71c-2beb11a2487d;569;Android;android 6.0.1;samsung sm-j500m;WiFi
+35803787;2019-09-23 21:58:37;simple;320;480;95.78.5.218;b0b018d8-b3a6-44f3-b504-679dd547a796;353;Android;android 7.0;None;WiFi
+35803788;2019-09-23 22:01:31;native;1;1;176.59.71.246;None;521;Android;android 6.0;doogee x5max;GPRS/EDGE/3G/LTE
+35803789;2019-09-23 22:01:53;native;1;1;95.106.51.16;None;521;Android;android 6.0;homtom ht17pro;WiFi
+35803790;2019-09-23 22:01:55;simple;320;480;176.50.239.213;dc4f5090-6929-4f81-971c-258f27e22a13;353;Android;android 5.0;None;WiFi
+35803791;2019-09-23 22:02:40;simple;320;480;80.83.235.8;171d562d-fb0a-4574-a804-d1694f573b56;712;Android;android 5.1;zte smart start 3;GPRS/EDGE/3G/LTE
+35803792;2019-09-23 22:03:08;simple;480;320;185.52.141.45;efd968ee-d775-46fc-8672-4bc0687149e2;353;Android;android 8.1;xiaomi mibox4;GPRS/EDGE/3G/LTE
+35803793;2019-09-23 22:03:10;simple;480;320;213.87.120.104;127317ce-cd43-4e6a-8377-4bbadef8551b;353;Android;android 5.1;lenovo tab 2 a8-50lc;GPRS/EDGE/3G/LTE
+35803794;2019-09-23 22:03:37;simple;320;480;94.241.210.223;4bf4cbcf-bf13-4bae-bfe2-00e18f065b45;353;Android;android 5.1;huawei lua-l21;WiFi
+35803795;2019-09-23 22:04:14;simple;320;480;178.45.6.162;4b8f6793-27f8-4159-9bb1-75db73f3aa5a;353;Android;android 4.2.2;None;GPRS/EDGE/3G/LTE
+35803796;2019-09-23 22:04:18;simple;320;480;37.146.108.116;53dde06b-5735-4fc7-ab69-528e84abb161;863;Android;android 8.1.0;vivo 1814;WiFi
 
