@@ -1,0 +1,88 @@
+	ИНСТРУКЦИЯ ПО УСТАНОВКЕ
+
+1) Скачивание пакета Анаконда
+   загрузка через wget. для версии =='2019.03'== работает только он 
+   следующей командой:
+
+   wget https://repo.anaconda.com/archive/Anaconda3-2019.03-Linux-x86_64.sh
+
+2) Установка пакета Анаконда
+
+   bash Anaconda3-2019.03-Linux-x86_64.sh
+
+3) Автозапуск Анаконда при старте 
+
+   conda init bash
+
+4) инициализация настроек
+   source ~/.bashrc
+
+5) Обновление Анаконда
+   conda update conda
+   conda update anaconda
+ 
+6) Обновление индекса APT 
+
+   sudo apt update
+   sudo apt upgrade -y
+
+7) Установка Tensorflow
+
+   pip3 install --upgrade tensorflow
+
+8) (/home/tree4567/anaconda3/Predictor) Создать каталог 'Predictor' 
+   внутри раталога анаконды
+  
+   mkdir Predictor 
+
+9) скопировать в папку Predictor файлы:
+   
+config.py
+   database.csv
+   model2_bi.h5
+   model2_bi.json
+   nndemon.py
+   predictdb.sqlite
+   s2s.py
+   selector.py
+
+10) Запуск приложения 
+    перейти в папку Predictor, выполнить команду: 
+    
+	python selector.py
+
+11)Для запуска приложения использовать среду 
+ 
+   TMUX,
+
+  чтоб по завершении консольного сеанса сервис оставался доступным. 
+     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+   
+
+
